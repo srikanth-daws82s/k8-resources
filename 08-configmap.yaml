@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: myconfigmap-demo
+data:
+  course: "kubernates"
+  duration: "25hrs"
